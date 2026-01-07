@@ -123,8 +123,10 @@ This repository aims to collect and organize resources in this direction to faci
 ### H&E To Gene Mutation
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2025 | **Evidential deep learning-based ALK-expression screening using H&E-stained histopathological images** | npj Digit. Med. | DeepPATHO | [link](https://www.nature.com/articles/s41746-025-01981-9)    | [link](https://github.com/datax-lab/DeepPATHO) 
-
+| 2025 | **Evidential deep learning-based ALK-expression screening using H&E-stained histopathological images** | npj Digit. Med. | DeepPATHO | [link](https://www.nature.com/articles/s41746-025-01981-9) | [link](https://github.com/datax-lab/DeepPATHO) |
+| 2025 | **Deep learning using histological images for gene mutation prediction in lung cancer: a multicentre retrospective study** | Lancet Oncol. | DeepGEM | [link](https://www.sciencedirect.com/science/article/abs/pii/S1470204524005990) | [link](https://github.com/TencentAILabHealthcare/DeepGEM.git) |
+| 2024 | **Predicting Genetic Mutation from Whole Slide Images via Biomedical-Linguistic Knowledge Enhanced Multi-label Classification** | arXiv | BPGT | [link](https://arxiv.org/abs/2406.02990) | [link](https://github.com/gexinh/BPGT.git) |
+| 2024 | **Prediction of HER2 Status Based on Deep Learning in H&E-Stained Histopathology Images of Bladder Cancer** | Biomedicines | CLAM | [link](https://www.mdpi.com/2227-9059/12/7/1583) | [link](https://github.com/mahmoodlab/CLAM) |
 
 
 <!-- 
