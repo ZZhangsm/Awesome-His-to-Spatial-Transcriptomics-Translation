@@ -119,14 +119,23 @@ This repository aims to collect and organize resources in this direction to faci
 | 2020 | **Integrating spatial gene expression and breast tumour morphology via deep learning** | Nat. Biomed. Eng. | ST-Net | [link](https://www.nature.com/articles/s41551-020-0578-x) | [link](https://github.com/bryanhe/ST-Net) |
 
 
-
 ### H&E To Gene Mutation
+
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025 | **Evidential deep learning-based ALK-expression screening using H&E-stained histopathological images** | npj Digit. Med. | DeepPATHO | [link](https://www.nature.com/articles/s41746-025-01981-9) | [link](https://github.com/datax-lab/DeepPATHO) |
+| 2025 | **Deep learning for predicting prognostic consensus molecular subtypes in cervical cancer from histology images** | npj Precis. Oncol. | - | [link](https://www.nature.com/articles/s41698-024-00778-5) | [link](https://github.com/ruoyussh/cervical-cms) |
 | 2025 | **Deep learning using histological images for gene mutation prediction in lung cancer: a multicentre retrospective study** | Lancet Oncol. | DeepGEM | [link](https://www.sciencedirect.com/science/article/abs/pii/S1470204524005990) | [link](https://github.com/TencentAILabHealthcare/DeepGEM.git) |
+| 2024 | **Screen Them All: High-Throughput Pan-Cancer Genetic and Phenotypic Biomarker Screening from H&E Whole Slide Images** | arXiv | - | [link](https://arxiv.org/html/2408.09554v2) | [link](https://github.com/Paige-AI/paige-ml-sdk) |
 | 2024 | **Predicting Genetic Mutation from Whole Slide Images via Biomedical-Linguistic Knowledge Enhanced Multi-label Classification** | arXiv | BPGT | [link](https://arxiv.org/abs/2406.02990) | [link](https://github.com/gexinh/BPGT.git) |
 | 2024 | **Prediction of HER2 Status Based on Deep Learning in H&E-Stained Histopathology Images of Bladder Cancer** | Biomedicines | CLAM | [link](https://www.mdpi.com/2227-9059/12/7/1583) | [link](https://github.com/mahmoodlab/CLAM) |
+| 2024 | **A whole-slide foundation model for digital pathology from real-world data** | Nature | Prov-GigaPath | [link](https://www.nature.com/articles/s41586-024-07441-w) | [link](https://github.com/prov-gigapath/prov-gigapath) |
+| 2024 | **Digital profiling of gene expression from histology images with linearized attention** | Nat Commun. | SEQUOIA | [link](https://www.nature.com/articles/s41467-024-54182-5) | [link](https://github.com/gevaertlab/sequoia-pub) |
+| 2024 | **AI allows pre-screening of FGFR3 mutational status using routine histology slides of muscle-invasive bladder cancer** | Nat Commun. | - | [link](https://www.nature.com/articles/s41467-024-55331-6) | [link](https://github.com/PABannier/fgfr3mut) |
+| 2024 | **Histopathologic image–based deep learning classifier for predicting platinum-based treatment responses in high-grade serous ovarian cancer** | Nat Commun. | PathoRiCH | [link](https://www.nature.com/articles/s41467-024-48667-6) | [link](https://github.com/dmmoon/PathoRICH) |
+| 2024 | **Clinical utility of receptor status prediction in breast cancer and misdiagnosis identification using deep learning on H&E-stained slides** | Commun. Med. | - | [link](https://www.nature.com/articles/s43856-024-00695-5) | [link](https://github.com/shachar5020/TransformerMIL4ReceptorPrediction) |
+| 2023 | **Semi-Supervised, Attention-Based Deep Learning for Predicting TMPRSS2:ERG Fusion Status in Prostate Cancer Using Whole Slide Images** | Mol. Cancer Res. | - | [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10985477/) | [link](https://github.com/MohamedOmar2020/pca_ERG) |
+| 2023 | **Optimization of deep learning models for the prediction of gene mutations using unsupervised clustering** | J. Pathol. Clin. Res. | - | [link](https://pubmed.ncbi.nlm.nih.gov/36376239/) | - |
 
 
 <!-- 
