@@ -6,6 +6,8 @@
 
 # Awesome H&E-to-Spatial-Transcriptomics Translation
 
+![Overview](overview.png)
+
 A curated collection of works on translating hematoxylin and eosin (H&E) stained histopathology images into spatial transcriptomics.  
 This repository includes **papers, code, and datasets**, and focuses exclusively on **generative translation from H&E images to spatially resolved gene expression**.
 
