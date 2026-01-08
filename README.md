@@ -1,11 +1,12 @@
-[stars-img]: https://img.shields.io/github/stars/zzhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation?color=yellow
-[stars-url]: https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation/stargazers
-[fork-img]: https://img.shields.io/github/forks/zzhangsm/Awesome-Histopathology-Generative-Translation?color=lightblue&label=fork
-[fork-url]: https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation/network/members
-[AHBG-url]: https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation
+
+
 
 # Awesome H&E-to-Spatial-Transcriptomics Translation
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ZZhangsm.Awesome-H-E-to-Spatial-Transcriptomics-Translation&left_color=green&right_color=red) 
+[![GitHub](https://img.shields.io/github/stars/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation?style=social)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+ <!-- omit in toc -->
+ 
 ![Overview](overview.png)
 
 A curated collection of works on translating hematoxylin and eosin (H&E) stained histopathology images into spatial transcriptomics.  
@@ -18,9 +19,6 @@ Spatial transcriptomics provides spatially resolved gene expression profiles, wh
 Recent advances in machine learning and generative modeling have enabled the translation of H&E images into spatial gene expression, bridging the gap between routine pathology and spatial omics.  
 
 This repository aims to collect and organize resources in this direction to facilitate research and applications.
-
-[![GitHub stars][stars-img]][stars-url]
-[![GitHub forks][fork-img]][fork-url]
 
 
 ## 📋 Table of Contents
@@ -72,6 +70,7 @@ This repository aims to collect and organize resources in this direction to faci
 | ---- | ----- | :---: | :----: | :---: | :--: |
 | 2025 | **TBD** |  |  | [link]() | [link]() |
 | 2025 | **Generating crossmodal gene expression from cancer histopathology improves multimodal AI predictions** | Nat. Commun. | PathGen | [link](https://doi.org/10.1038/s41467-025-66961-9) | [link](https://github.com/Samiran-Dey/PathGen) |
+| 2025 | **HyperST: Hierarchical Hyperbolic Learning for Spatial Transcriptomics Prediction** | arXriv | HyperST | [link](https://arxiv.org/abs/2511.22107) | - |
 | 2025 | **STPath: a generative foundation model for integrating spatial transcriptomics and whole-slide images** | npj Digit. Med. | STPath | [link](https://www.nature.com/articles/s41746-025-02020-3) | [link](https://github.com/Graph-and-Geometric-Learning/STPath) |
 | 2025 | **A deep learning-based multiscale integration of spatial omics with tumor morphology** | Nat. Commun. | MISO | [link](https://www.nature.com/articles/s41467-025-66691-y) | [link](https://github.com/owkin/miso_code) |
 | 2025 | **GenAR: Next-Scale Autoregressive Generation for Spatial Gene Expression Prediction** | arXiv | GenAR | [link](https://arxiv.org/abs/2510.04315v1) | [link](https://github.com/oyjr/genar) |
