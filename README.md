@@ -67,6 +67,7 @@ This repository aims to collect and organize resources in this direction to faci
 
 | Year | Title | Venue | Method | Paper | Code |
 | ---- | ----- | :---: | :----: | :---: | :--: |
+| 2025 | **TBD** |  |  | [link]() | [link]() |
 | 2026 | **sCellST predicts single-cell gene expression from H&E images** | Nat. Commun. | sCellST | [link](https://doi.org/10.1038/s41467-025-67965-1) | [link](https://github.com/loicchadoutaud/sCellST) |
 
 
@@ -74,7 +75,6 @@ This repository aims to collect and organize resources in this direction to faci
 
 | Year | Title | Venue | Method | Paper | Code |
 | ---- | ----- | :---: | :----: | :---: | :--: |
-| 2025 | **TBD** |  |  | [link]() | [link]() |
 | 2025 | **High-parameter spatial multi-omics through histology-anchored integration** | Nat. Methods |  SpatialEx | [link](https://doi.org/10.1038/s41592-025-02926-6) | [link](https://github.com/KEAML-JLU/SpatialEx) |
 | 2025 | **Generating crossmodal gene expression from cancer histopathology improves multimodal AI predictions** | Nat. Commun. | PathGen | [link](https://doi.org/10.1038/s41467-025-66961-9) | [link](https://github.com/Samiran-Dey/PathGen) |
 | 2025 | **HyperST: Hierarchical Hyperbolic Learning for Spatial Transcriptomics Prediction** | arXriv | HyperST | [link](https://arxiv.org/abs/2511.22107) | - |
