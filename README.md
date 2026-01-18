@@ -67,7 +67,8 @@ This repository aims to collect and organize resources in this direction to faci
 
 | Year | Title | Venue | Method | Paper | Code |
 | ---- | ----- | :---: | :----: | :---: | :--: |
-| 2025 | **TBD** |  |  | [link]() | [link]() |
+| 2026 | **TBD** |  |  | [link]() | [link]() |
+| 2026 | **Robust and interpretable prediction of gene markers and cell types from spatial transcriptomics data** |  Nat. Commun. | STimage | [link](https://www.nature.com/articles/s41467-026-68487-0) | [link](https://github.com/BiomedicalMachineLearning/STimage) |
 | 2026 | **sCellST predicts single-cell gene expression from H&E images** | Nat. Commun. | sCellST | [link](https://doi.org/10.1038/s41467-025-67965-1) | [link](https://github.com/loicchadoutaud/sCellST) |
 
 
