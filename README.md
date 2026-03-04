@@ -30,7 +30,7 @@ This repository aims to collect and organize resources in this direction to faci
     - [2025](#2025)
     - [2024](#2024)
     - [2023 and Earlier](#2023-and-earlier)
-  - [H&E To Gene Mutation](#h&e-to-gene-mutation)
+  - [H&E To Biomarker](#h&e-to-biomarker)
 - [🤝 Contributing](#🤝-contributing)
 - [📧 Contact](#📧-contact)
 - [🙏 Acknowledgments](#🙏-acknowledgments)
@@ -68,6 +68,7 @@ This repository aims to collect and organize resources in this direction to faci
 | Year | Title | Venue | Method | Paper | Code |
 | ---- | ----- | :---: | :----: | :---: | :--: |
 | 2026 | **TBD** |  |  | [link]() | [link]() |
+| 2026 | **HiST: Histological Images Reconstruct Tumor Spatial Transcriptomics via MultiScale Fusion Deep Learning** | Adv. Sci. | HiST | [link](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202514351?af=R) | [link](https://github.com/Yelab2020/HiST) |
 | 2026 | **Robust and interpretable prediction of gene markers and cell types from spatial transcriptomics data** |  Nat. Commun. | STimage | [link](https://www.nature.com/articles/s41467-026-68487-0) | [link](https://github.com/BiomedicalMachineLearning/STimage) |
 | 2026 | **sCellST predicts single-cell gene expression from H&E images** | Nat. Commun. | sCellST | [link](https://doi.org/10.1038/s41467-025-67965-1) | [link](https://github.com/loicchadoutaud/sCellST) |
 
@@ -127,10 +128,12 @@ This repository aims to collect and organize resources in this direction to faci
 | 2020 | **Integrating spatial gene expression and breast tumour morphology via deep learning** | Nat. Biomed. Eng. | ST-Net | [link](https://www.nature.com/articles/s41551-020-0578-x) | [link](https://github.com/bryanhe/ST-Net) |
 
 
-### H&E To Gene Mutation
+### H&E To Biomarker
 
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026 | **Confounding factors and biases abound when predicting molecular biomarkers from histological images** | Nat. Biomed. Eng. | - | [link](https://www.nature.com/articles/s41551-026-01616-8)| [link](https://github.com/imuhdawood/HistBiases)|
+| 2025 | **Assessing genotype−phenotype correlations in colorectal cancer with deep learning: a multicentre cohort study** | Lancet Digital Health |  -| [link](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00073-1/fulltext) | [link](https://github.com/KatherLab.) |
 | 2025 | **Evidential deep learning-based ALK-expression screening using H&E-stained histopathological images** | npj Digit. Med. | DeepPATHO | [link](https://www.nature.com/articles/s41746-025-01981-9) | [link](https://github.com/datax-lab/DeepPATHO) |
 | 2025 | **Deep learning for predicting prognostic consensus molecular subtypes in cervical cancer from histology images** | npj Precis. Oncol. | - | [link](https://www.nature.com/articles/s41698-024-00778-5) | [link](https://github.com/ruoyussh/cervical-cms) |
 | 2025 | **Deep learning using histological images for gene mutation prediction in lung cancer: a multicentre retrospective study** | Lancet Oncol. | DeepGEM | [link](https://www.sciencedirect.com/science/article/abs/pii/S1470204524005990) | [link](https://github.com/TencentAILabHealthcare/DeepGEM.git) |
