@@ -100,14 +100,13 @@ This repository aims to collect and organize resources in this direction to faci
 | 2025 | **Spatial gene expression at single-cell resolution from histology using deep learning with GHIST** | Nat. Methods | GHIST | [link](https://www.nature.com/articles/s41592-025-02795-z) | [link](https://github.com/SydneyBioX/GHIST) |
 | 2025 | **FmH2ST: foundation model-based spatial transcriptomics generation from histological images** | Nucleic Acids Res. | FmH2ST | [link](https://doi.org/10.1093/nar/gkaf865) | [link](https://www.sdu-idea.cn/codes.php?name=FmH2ST) |
 | 2025 | **A visual–omics foundation model to bridge histopathology with spatial transcriptomics** | Nat. Methods | OmiCLIP | [link](https://www.nature.com/articles/s41592-025-02707-1) | [link](https://github.com/GuangyuWangLab2021/Loki)  |
-| 2025 | **Scalable Generation of Spatial Transcriptomics from Histology Images via Whole-Slide Flow Matching** | ICML | STFLow | [link](https://arxiv.org/abs/2506.05361) | [link](https://github.com/Graph-and-Geometric-Learning/STFlow) |
+| 2025 | **Scalable Generation of Spatial Transcriptomics from Histology Images via Whole-Slide Flow Matching** | ICML | STFlow | [link](https://arxiv.org/abs/2506.05361) | [link](https://github.com/Graph-and-Geometric-Learning/STFlow) |
 | 2025 | **Predicting Spatial Transcriptomics from H&E Image by Pretrained Contrastive Alignment Learning** | bioRxiv | CarHE | [link](https://www.biorxiv.org/content/10.1101/2025.06.15.659438v1.abstract) | [link](https://github.com/Jwzouchenlab/CarHE) |
 | 2025 | **Gene-DML: Dual-Pathway Multi-Level Discrimination for Gene Expression Prediction from Histopathology Images** | arXiv | Gene-DML | [link](https://arxiv.org/abs/2507.14670) | [link](https://github.com/hrlblab/Img2ST-Net) |
 | 2025 | **Spatial Transcriptomics Expression Prediction from Histopathology Based on Cross-Modal Mask Reconstruction and Contrastive Learning** | arXiv | CMRCNet | [link](https://arxiv.org/abs/2506.08854) | - |
 | 2025 | **Img2ST-Net: Efficient High-Resolution Spatial Omics Prediction from Whole Slide Histology Images via Fully Convolutional Image-to-Image Learning** | arXiv | Img2ST-Net | [link](https://arxiv.org/abs/2508.14393) | [link](https://github.com/hrlblab/Img2ST-Net) |
 | 2025 | **MV-Hybrid: Improving Spatial Transcriptomics Prediction with Hybrid State Space-Vision Transformer Backbone in Pathology Vision Foundation Models** | MICCAI Workshop | MV-Hybrid | [link](https://arxiv.org/abs/2508.00383) | [link](https://github.com/deepnoid-ai/MVHybrid) |
 | 2025 | **Diffusion Generative Modeling for Spatially Resolved Gene Expression Inference from Histology Images** | ICLR | Stem | [link](https://arxiv.org/abs/2501.15598) | [link](https://github.com/SichenZhu/Stem) |
-| 2025 | **Spatially resolved gene expression prediction from histology images via bi-modal contrastive learning** | NeurIPS | BLEEP | [link](https://arxiv.org/pdf/2306.01859) | [link](https://github.com/bowang-lab/BLEEP) |
 | 2025 | **M2ORT: Many-To-One Regression Transformer for Spatial Transcriptomics Prediction from Histopathology Images** | AAAI | M2ORT | [link](https://ojs.aaai.org/index.php/AAAI/article/view/32830/34985) | [link](https://github.com/Dootmaan/M2OST) |
 
 
@@ -134,6 +133,7 @@ This repository aims to collect and organize resources in this direction to faci
 
 | Year | Title | Venue | Method | Paper | Code |
 | ---- | ----- | :---: | :----: | :---: | :--: |
+| 2025 | **Spatially resolved gene expression prediction from histology images via bi-modal contrastive learning** | NeurIPS | BLEEP | [link](https://arxiv.org/pdf/2306.01859) | [link](https://github.com/bowang-lab/BLEEP) |
 | 2023 | **SEPAL: spatial gene expression prediction from local graphs** | ICCV | SEPAL | [link](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Mejia_SEPAL_Spatial_Gene_Expression_Prediction_from_Local_Graphs_ICCVW_2023_paper.pdf) | [link](https://github.com/BCV-Uniandes/SEPAL) |
 | 2023 | **Breast cancer histopathology image-based gene expression prediction using spatial transcriptomics data and deep learning** | Sci. Rep. | BrST-Net | [link](https://doi.org/10.1038%2Fs41598-023-40219-0) | [link](https://github.com/Mamunur-20/BrSTNet) |
 | 2023 | **Exemplar guided deep neural network for spatial transcriptomics analysis of gene expression prediction** | CVPR | EGN | [link](https://arxiv.org/abs/2210.16721) | [link](https://github.com/Yan98/EGN) |
