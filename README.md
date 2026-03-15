@@ -68,6 +68,7 @@ This repository aims to collect and organize resources in this direction to faci
 | Year | Title | Venue | Method | Paper | Code |
 | ---- | ----- | :---: | :----: | :---: | :--: |
 | 2026 | **TBD** |  |  | [link]() | [link]() |
+| 2026 | **MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology** | 	arXiv | MoLF | [link](https://arxiv.org/abs/2602.02282) | [link](https://susuhu.github.io/MoLF/) |
 | 2026 | **HiST: Histological Images Reconstruct Tumor Spatial Transcriptomics via MultiScale Fusion Deep Learning** | Adv. Sci. | HiST | [link](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202514351?af=R) | [link](https://github.com/Yelab2020/HiST) |
 | 2026 | **Robust and interpretable prediction of gene markers and cell types from spatial transcriptomics data** |  Nat. Commun. | STimage | [link](https://www.nature.com/articles/s41467-026-68487-0) | [link](https://github.com/BiomedicalMachineLearning/STimage) |
 | 2026 | **sCellST predicts single-cell gene expression from H&E images** | Nat. Commun. | sCellST | [link](https://doi.org/10.1038/s41467-025-67965-1) | [link](https://github.com/loicchadoutaud/sCellST) |
@@ -96,7 +97,7 @@ This repository aims to collect and organize resources in this direction to faci
 | 2025 | **MV-Hybrid: Improving Spatial Transcriptomics Prediction with Hybrid State Space-Vision Transformer Backbone in Pathology Vision Foundation Models** | MICCAI Workshop | MV-Hybrid | [link](https://arxiv.org/abs/2508.00383) | [link](https://github.com/deepnoid-ai/MVHybrid) |
 | 2025 | **Diffusion Generative Modeling for Spatially Resolved Gene Expression Inference from Histology Images** | ICLR | Stem | [link](https://arxiv.org/abs/2501.15598) | [link](https://github.com/SichenZhu/Stem) |
 | 2025 | **Spatially resolved gene expression prediction from histology images via bi-modal contrastive learning** | NeurIPS | BLEEP | [link](https://arxiv.org/pdf/2306.01859) | [link](https://github.com/bowang-lab/BLEEP) |
-| 2025 | **M2ORT: Many-To-One Regression Transformer for Spatial Transcriptomics Prediction from Histopathology Images** | AAAI | M2ORT | [link](https://ojs.aaai.org/index.php/AAAI/article/view/32830/34985) | [link](https://github.com/samrat-lab/HistoSPACE) |
+| 2025 | **M2ORT: Many-To-One Regression Transformer for Spatial Transcriptomics Prediction from Histopathology Images** | AAAI | M2ORT | [link](https://ojs.aaai.org/index.php/AAAI/article/view/32830/34985) | [link](https://github.com/Dootmaan/M2OST) |
 
 
 #### 🟩 2024
