@@ -24,16 +24,17 @@ This repository aims to collect and organize resources in this direction to faci
 ## 📋 Table of Contents
 
 <!-- - [📊 Datasets](#📊-datasets) -->
-- [📚 Papers](#📚-papers)
+- [📚 Papers](#papers)
   - [Protocol, Benchmark and Survey](#protocol-benchmark-and-survey)
-  - [H&E To Spatial Transcriptomics](#h&e-to-spatial-transcriptomics)
-    - [2025](#2025)
-    - [2024](#2024)
-    - [2023 and Earlier](#2023-and-earlier)
-  - [H&E To Biomarker](#h&e-to-biomarker)
-- [🤝 Contributing](#🤝-contributing)
-- [📧 Contact](#📧-contact)
-- [🙏 Acknowledgments](#🙏-acknowledgments)
+  - [H&E To Spatial Transcriptomics](#he-to-spatial-transcriptomics)
+    - [2026](#he-to-st-2026)
+    - [2025](#he-to-st-2025)
+    - [2024](#he-to-st-2024)
+    - [2023 and Earlier](#he-to-st-2023-and-earlier)
+  - [H&E To Biomarker](#he-to-biomarker)
+- [🤝 Contributing](#contributing)
+- [📧 Contact](#contact)
+- [🙏 Acknowledgments](#acknowledgments)
 
 <!-- ## 📊 Datasets -->
 
@@ -47,7 +48,11 @@ This repository aims to collect and organize resources in this direction to faci
 
 </details>
 
+<a id="papers"></a>
+
 ## 📚 Papers
+<a id="protocol-benchmark-and-survey"></a>
+
 ### Protocol, Benchmark and Survey
 | Year | Title                                                        |  Venue  |        Field        |                            Paper                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: |
@@ -62,7 +67,11 @@ This repository aims to collect and organize resources in this direction to faci
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025 | **Systematic inference of super-resolution cell spatial profiles from histology images** | Nat. Commun. | HistoCell | [link](https://www.nature.com/articles/s41467-025-57072-6)    | [link](https://github.com/recolyce/HistoCell)  -->
 
+<a id="he-to-spatial-transcriptomics"></a>
+
 ### H&E To Spatial Transcriptomics
+<a id="he-to-st-2026"></a>
+
 #### 🟪 2026
 
 | Year | Title | Venue | Method | Paper | Code |
@@ -73,6 +82,8 @@ This repository aims to collect and organize resources in this direction to faci
 | 2026 | **Robust and interpretable prediction of gene markers and cell types from spatial transcriptomics data** |  Nat. Commun. | STimage | [link](https://www.nature.com/articles/s41467-026-68487-0) | [link](https://github.com/BiomedicalMachineLearning/STimage) |
 | 2026 | **sCellST predicts single-cell gene expression from H&E images** | Nat. Commun. | sCellST | [link](https://doi.org/10.1038/s41467-025-67965-1) | [link](https://github.com/loicchadoutaud/sCellST) |
 
+
+<a id="he-to-st-2025"></a>
 
 #### 🟦 2025
 
@@ -100,6 +111,8 @@ This repository aims to collect and organize resources in this direction to faci
 | 2025 | **M2ORT: Many-To-One Regression Transformer for Spatial Transcriptomics Prediction from Histopathology Images** | AAAI | M2ORT | [link](https://ojs.aaai.org/index.php/AAAI/article/view/32830/34985) | [link](https://github.com/Dootmaan/M2OST) |
 
 
+<a id="he-to-st-2024"></a>
+
 #### 🟩 2024
 
 | Year | Title | Venue | Method | Paper | Code |
@@ -115,6 +128,8 @@ This repository aims to collect and organize resources in this direction to faci
 | 2024 | **Accurate spatial gene expression prediction by integrating multi-resolution features** | CVPR | TRIPLEX | [link](https://openaccess.thecvf.com/content/CVPR2024/html/Chung_Accurate_Spatial_Gene_Expression_Prediction_by_Integrating_Multi-Resolution_Features_CVPR_2024_paper.html) | [link](https://github.com/NEXGEM/TRIPLEX) |
 
 
+<a id="he-to-st-2023-and-earlier"></a>
+
 #### 🟨 2023 and Earlier
 
 | Year | Title | Venue | Method | Paper | Code |
@@ -127,6 +142,8 @@ This repository aims to collect and organize resources in this direction to faci
 | 2021 | **Leveraging information in spatial transcriptomics to predict super-resolution gene expression from histology images in tumors** | bioRxiv | HisToGene | [link](https://www.biorxiv.org/content/10.1101/2021.11.28.470212v1) | [link](https://github.com/maxpmx/HisToGene) |
 | 2020 | **Integrating spatial gene expression and breast tumour morphology via deep learning** | Nat. Biomed. Eng. | ST-Net | [link](https://www.nature.com/articles/s41551-020-0578-x) | [link](https://github.com/bryanhe/ST-Net) |
 
+
+<a id="he-to-biomarker"></a>
 
 ### H&E To Biomarker
 
@@ -169,6 +186,8 @@ This repository aims to collect and organize resources in this direction to faci
 | 2020 | **SHIFT: speedy histological-to-immunofluorescent translation of a tumor signature enabled by deep learning** |Sci. Rep. | SHIFT | [link](https://www.nature.com/articles/s41598-020-74500-3)    | [link](https://gitlab.com/eburling/shift)                   | -->
 
 
+<a id="contributing"></a>
+
 ## 🤝 Contributing
 
  Contributions are welcome!  
@@ -182,11 +201,15 @@ If you know of other relevant papers, code, or datasets, feel free to open an is
 5. Open a Pull Request
 
 
+<a id="contact"></a>
+
 ## 📧 Contact
 
 If you have any questions or suggestions, please contact us through:
 - Email: sm.zhang@smail.nju.edu.cn
 - GitHub Issues: [Create Issue](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation/issues)
+
+<a id="acknowledgments"></a>
 
 ## 🙏 Acknowledgments
 
