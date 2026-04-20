@@ -60,8 +60,6 @@ This repository aims to collect and organize resources in this direction to faci
 | 2025 | **Combining spatial transcriptomics with tissue morphology** | Nat. Commun. |  Survey | [link](https://www.nature.com/articles/s41467-025-58989-8)    |
 | 2025 | **Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges** | arXiv |  Survey | [link](https://arxiv.org/abs/2505.10993)    |
 | 2024 | **From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology** | Nat. Protoc. |  Protocol | [link](https://www.nature.com/articles/s41596-024-01047-2)    |
-<!-- | 2022 | **Deep learning-based prediction of molecular tumor biomarkers from H&E: A practical review** | J. Pers. Med | H&E To Protein | [link](https://www.mdpi.com/2075-4426/12/12/2022)    | -->
-
 <!-- ### H&E To Cell profile
 | Year | Title                                                        |  Venue  |        Method        |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -77,6 +75,7 @@ This repository aims to collect and organize resources in this direction to faci
 | Year | Title | Venue | Method | Paper | Code |
 | ---- | ----- | :---: | :----: | :---: | :--: |
 | 2026 | **TBD** |  |  | [link]() | [link]() |
+| 2026 | **Hist2Cell: Deciphering fine-grained cellular architectures from histology images** | Cell Genomics | Hist2Cell | [link](https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00393-3) | [link](https://github.com/Weiqin-Zhao/Hist2Cell) |
 | 2026 | **MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology** | 	arXiv | MoLF | [link](https://arxiv.org/abs/2602.02282) | [link](https://susuhu.github.io/MoLF/) |
 | 2026 | **HiST: Histological Images Reconstruct Tumor Spatial Transcriptomics via MultiScale Fusion Deep Learning** | Adv. Sci. | HiST | [link](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202514351?af=R) | [link](https://github.com/Yelab2020/HiST) |
 | 2026 | **Robust and interpretable prediction of gene markers and cell types from spatial transcriptomics data** |  Nat. Commun. | STimage | [link](https://www.nature.com/articles/s41467-026-68487-0) | [link](https://github.com/BiomedicalMachineLearning/STimage) |
