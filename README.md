@@ -74,6 +74,7 @@ This repository aims to collect and organize resources in this direction to faci
 
 | Year | Title | Venue | Method | Paper | Code |
 | ---- | ----- | :---: | :----: | :---: | :--: |
+| 2026 | **AI-predicted spatial transcriptomics unlocks breast cancer biomarkers from pathology** | Cell | Path2Space | [link](https://www.cell.com/cell/fulltext/S0092-8674(26)00458-7) | [link](https://zenodo.org/records/14729336) |
 | 2026 | **Pan-cancer virtual spatial transcriptomics from routine histology with Phoenix** | bioRxiv | Phoenix | [link](https://www.biorxiv.org/content/10.64898/2026.04.25.720812v1) | [link](https://github.com/peng-lab/phoenix) |
 | 2026 | **Hist2Cell: Deciphering fine-grained cellular architectures from histology images** | Cell Genomics | Hist2Cell | [link](https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00393-3) | [link](https://github.com/Weiqin-Zhao/Hist2Cell) |
 | 2026 | **MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology** | 	arXiv | MoLF | [link](https://arxiv.org/abs/2602.02282) | [link](https://susuhu.github.io/MoLF/) |
