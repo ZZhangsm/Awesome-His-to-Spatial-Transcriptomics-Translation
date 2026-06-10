@@ -74,7 +74,7 @@ This repository aims to collect and organize resources in this direction to faci
 
 | Year | Title | Venue | Method | Paper | Code |
 | ---- | ----- | :---: | :----: | :---: | :--: |
-| 2026 | **Integrating Histology with Spatial Molecular Programs Using a Multimodal Foundation Model** | SQUALL | H2O | [link]( https://doi.org/10.64898/2026.06.01.729028) | [link](https://github.com/OswaldZhang/SQUALL-release) |
+| 2026 | **Integrating Histology with Spatial Molecular Programs Using a Multimodal Foundation Model** | bioRxiv  | SQUALL | [link]( https://doi.org/10.64898/2026.06.01.729028) | [link](https://github.com/OswaldZhang/SQUALL-release) |
 | 2026 | **H2O: A Foundation Model Bridging Histopathology to Spatial Multi-Omics Profiling** | bioRxiv | H2O | [link](https://www.biorxiv.org/content/10.64898/2026.04.21.717342v1) | [link](https://github.com/TencentAILabHealthcare/H2O) |
 | 2026 | **A Multimodal Foundation Model of Spatial Transcriptomics and Histology for Biological Discovery and Clinical Prediction** | arXiv | STORM | [link](https://arxiv.org/abs/2604.03630) | [link](https://storm-web-demo.vercel.app/) |
 | 2026 | **HESpotEx: a dual-stream deep learning framework for spot-level gene expression prediction from histological images** | Nat. Comput. Sci. | HESpotEx | [link](https://doi.org/10.1038/s43588-026-00992-0) | [link](https://github.com/wwYinYin/HESpotEx) |
