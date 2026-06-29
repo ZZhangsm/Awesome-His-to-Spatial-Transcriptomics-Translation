@@ -1,11 +1,10 @@
 # Awesome H&E-to-Spatial-Transcriptomics Translation
 
-visitors 
-[GitHub](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation) 
-[Awesome](https://github.com/sindresorhus/awesome)
- 
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZZhangsm.Awesome-H-E-to-Spatial-Transcriptomics-Translation)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/ZZhangsm/Awesome-H-E-to-Spatial-Transcriptomics-Translation)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Overview
+## Overview
 
 A curated collection of works on translating hematoxylin and eosin (H&E) stained histopathology images into spatial transcriptomics.  
 This repository includes **papers, code, and datasets**, and focuses exclusively on **generative translation from H&E images to spatially resolved gene expression**.
