@@ -6,6 +6,8 @@
 
 ## Overview
 
+![Overview](overview.png)
+
 A curated collection of works on translating hematoxylin and eosin (H&E) stained histopathology images into spatial transcriptomics.  
 This repository includes **papers, code, and datasets**, and focuses exclusively on **generative translation from H&E images to spatially resolved gene expression**.
 
@@ -73,7 +75,6 @@ This repository aims to collect and organize resources in this direction to faci
 | Year | Title                                                                                                                                                              | Venue        | Method     | Paper                                                                                                                                                                               | Code                                                         |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | 2026 | **Contrastive and Adaptive Multi-modal Masked Autoencoder for Spatial Transcriptomics** | arXiv      | CAMMST     | [link](https://arxiv.org/pdf/2606.21156) | [link](https://github.com/Kyyle2114/CAMMST)        |
-| 2026 | **H2O: A Foundation Mode
 | 2026 | **Integrating Histology with Spatial Molecular Programs Using a Multimodal Foundation Model**                                                                      | bioRxiv      | SQUALL     | [link](https://doi.org/10.64898/2026.06.01.729028)                                                                                                                                  | [link](https://github.com/OswaldZhang/SQUALL-release)        |
 | 2026 | **H2O: A Foundation Model Bridging Histopathology to Spatial Multi-Omics Profiling**                                                                               | bioRxiv      | H2O        | [link](https://www.biorxiv.org/content/10.64898/2026.04.21.717342v1)                                                                                                                | [link](https://github.com/TencentAILabHealthcare/H2O)        |
 | 2026 | **A Multimodal Foundation Model of Spatial Transcriptomics and Histology for Biological Discovery and Clinical Prediction**                                        | arXiv        | STORM      | [link](https://arxiv.org/abs/2604.03630)                                                                                                                                            | [link](https://storm-web-demo.vercel.app/)                   |
