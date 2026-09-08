@@ -188,6 +188,8 @@ This repository aims to collect and organize resources in this direction to faci
 
 | Year | Title | Venue | Method | Paper | Code |
 |------|-------|-------|--------|-------|------|
+| 2026 | OmicsFM brings proteomics into the foundation model era
+ | BioRxiv | OmicsFM | [Paper](https://www.biorxiv.org/content/10.64898/2026.08.25.747021v1) | [Code](https://github.com/CompOmics/OmicsFM) |
 | 2026 | The Virtual Tissues foundation model resolves spatial proteomics across scales | Nature | VirTues | [Paper](https://www.nature.com/articles/s41586-026-10884-y) | [Code](https://github.com/bunnelab/virtues) |
 | 2026 | Cellular architecture and neighborhood-informed virtual spatial tumor profiling from histopathology | Cell | CANVAS | [Paper](https://www.cell.com/cell/fulltext/S0092-8674(26)00590-8) | [Code](https://github.com/lilab-stanford/CANVAS) |
 | 2026 | AI-enabled virtual spatial proteomics from histopathology for interpretable biomarker discovery in lung cancer | Nature Medicine | HEX | [Paper](https://www.nature.com/articles/s41591-025-04060-4) | [Code](https://github.com/lilab-stanford/HEX) |
