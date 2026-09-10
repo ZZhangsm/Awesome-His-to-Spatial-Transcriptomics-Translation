@@ -33,10 +33,11 @@ This repository aims to collect and organize resources in this direction to faci
     - [2025](#-2025)
     - [2024](#-2024)
     - [2023 and Earlier](#-2023-and-earlier)
-  - [RNA To WSI](#rna-to-wsi)
   - [H&E To Spatial Proteomics](#he-to-spatial-proteomics)
   - [H&E To Biomarker](#he-to-biomarker)
   - [H&E To Others](#he-to-others)
+  - [RNA To WSI](#rna-to-wsi)
+  - [Spatial Multi-Omics Translation](#spatial-mulit-omics-translation)
 - [🤝 Contributing](#-contributing)
 - [📧 Contact](#-contact)
 - [🙏 Acknowledgments](#-acknowledgments)
@@ -174,22 +175,13 @@ This repository aims to collect and organize resources in this direction to faci
 
 
 
-### RNA To WSI
-
-
-| Year | Title                                                                                                                 | Venue             | Method  | Paper                                                                                                                                                        | Code                                            |
-| ---- | --------------------------------------------------------------------------------------------------------------------- | ----------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| 2026 | **GeneVAR: Causal MeanFlow for Autoregressive Gene-to-WSI Tile Synthesis**                                            | CVPR              | GeneVAR | [link](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_GeneVAR_Causal_MeanFlow_for_Autoregressive_Gene-to-WSI_Tile_Synthesis_CVPR_2026_paper.pdf) | [link](https://github.com/JWZhao-uestc/GeneVAR) |
-| 2024 | **Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models** | Nat. biomed. eng. | RNA-CDM | [link](https://www.nature.com/articles/s41551-024-01193-8)                                                                                                   | [link](https://rna-cdm.stanford.edu/)           |
-
 
 ### H&E To Spatial Proteomics
 
 
 | Year | Title | Venue | Method | Paper | Code |
 |------|-------|-------|--------|-------|------|
-| 2026 | OmicsFM brings proteomics into the foundation model era
- | BioRxiv | OmicsFM | [Paper](https://www.biorxiv.org/content/10.64898/2026.08.25.747021v1) | [Code](https://github.com/CompOmics/OmicsFM) |
+| 2026 | OmicsFM brings proteomics into the foundation model era | BioRxiv | OmicsFM | [Paper](https://www.biorxiv.org/content/10.64898/2026.08.25.747021v1) | [Code](https://github.com/CompOmics/OmicsFM) |
 | 2026 | The Virtual Tissues foundation model resolves spatial proteomics across scales | Nature | VirTues | [Paper](https://www.nature.com/articles/s41586-026-10884-y) | [Code](https://github.com/bunnelab/virtues) |
 | 2026 | Cellular architecture and neighborhood-informed virtual spatial tumor profiling from histopathology | Cell | CANVAS | [Paper](https://www.cell.com/cell/fulltext/S0092-8674(26)00590-8) | [Code](https://github.com/lilab-stanford/CANVAS) |
 | 2026 | AI-enabled virtual spatial proteomics from histopathology for interpretable biomarker discovery in lung cancer | Nature Medicine | HEX | [Paper](https://www.nature.com/articles/s41591-025-04060-4) | [Code](https://github.com/lilab-stanford/HEX) |
@@ -237,6 +229,25 @@ This repository aims to collect and organize resources in this direction to faci
 | 2026 | **HisToSpatialCNV: an interpretable deep learning method predicting spatial copy number variations from histopathology images**                | Nature Biomedical Engineering | HisToSpatialCNV          | [link](https://www.nature.com/articles/s41551-026-01754-z) | - 
 | 2026 | **DeepPathway: Predicting Pathway Expression from Histopathology Images**                | Bioinformatics | DeepPathway          | [link](https://doi.org/10.1093/bioinformatics/btag643) | [link](https://github.com/aahsan045/DeepPathway)
 
+
+### RNA To WSI
+
+
+| Year | Title | Venue | Method  | Paper | Code |
+| ---- | --------------------------------------------------------------------------------------------------------------------- | ----------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| 2026 | **GeneVAR: Causal MeanFlow for Autoregressive Gene-to-WSI Tile Synthesis**                                            | CVPR              | GeneVAR | [link](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_GeneVAR_Causal_MeanFlow_for_Autoregressive_Gene-to-WSI_Tile_Synthesis_CVPR_2026_paper.pdf) | [link](https://github.com/JWZhao-uestc/GeneVAR) |
+| 2024 | **Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models** | Nat. biomed. eng. | RNA-CDM | [link](https://www.nature.com/articles/s41551-024-01193-8)                                                                                                   | [link](https://rna-cdm.stanford.edu/)           |
+
+
+### Spatial Multi-Omics Translation
+
+| Year | Title | Venue | Method  | Paper | Code |
+| ---- | --------------------------------------------------------------------------------------------------------------------- | ----------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| 2026 | **DGAT: a dual-graph attention network for inferring spatial protein landscapes from transcriptomics** | Nat. Commun. | DGAT | [link](https://doi.org/10.1038/s41467-026-73114-z) | [link](https://github.com/osmanbeyoglulab/DGAT) |
+| 2026 | **Inference of spatial chromatin accessibility via integration of spatial transcriptomics and single-cell multi-omics data** | Nat. Commun. | ISON | [link](https://doi.org/10.1038/s41467-026-73948-7) | [link](https://github.com/Durenlab/ISON) |
+| 2026 | **Microenvironment-aware transcriptome reconstruction in spatial transcriptomics** | Nat. Commun. | Emerge | [link](https://doi.org/10.1038/s41467-026-77349-8) | [link](https://github.com/st-yang97/Emerge) |
+| 2026 | **NicheTrans: spatial-aware cross-omics translation** | Nat. Methods | NicheTrans | [link](https://doi.org/10.1038/s41592-026-03153-3) | [link](https://github.com/YSTLab/NicheTrans) |
+| 2025 | **SpaTranslator: A deep generative framework for universal spatial multi-omics cross-modality translation** | bioRxiv | SpaTranslator | [link](https://doi.org/10.1101/2025.11.15.688644) | [link](https://github.com/donghongyu2020/SpaTranslator) |
 
 ## 🤝 Contributing
 
