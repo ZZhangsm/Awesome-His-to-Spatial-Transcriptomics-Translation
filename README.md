@@ -37,7 +37,7 @@ This repository aims to collect and organize resources in this direction to faci
   - [H&E To Biomarker](#he-to-biomarker)
   - [H&E To Others](#he-to-others)
   - [RNA To WSI](#rna-to-wsi)
-  - [Spatial Multi-Omics Translation](#spatial-mulit-omics-translation)
+  - [Spatial Multi-Omics Translation](#spatial-multi-omics-translation)
 - [🤝 Contributing](#-contributing)
 - [📧 Contact](#-contact)
 - [🙏 Acknowledgments](#-acknowledgments)
